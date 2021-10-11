@@ -1,6 +1,6 @@
 {
   "name": "react-use-oauth2",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Create oauth2 auth for any provider with ease",
   "author": "ndeviant",
   "license": "MIT",
